@@ -1,9 +1,9 @@
 # Super EOY Wrapped 2026
 
 A personalized End of Year Wrapped experience for Super, showcasing usage,
-insights, sources, archetypes, and super powers.
+insights, sources, archetypes, and super powers.test t
 
-**Live demo:** https://super-eoy-wrapped.vercel.app/
+**Live demo:** [https://super-eoy-wrapped.vercel.app/](https://super-eoy-wrapped.vercel.app/)
 
 ![Super EOY Wrapped preview](./public/SuperEOYWrappedAnton.png)
 
@@ -19,7 +19,6 @@ content.
 - `components/superDataProvider.tsx` — context + hooks for selected user data
 - `components/insightBlock.tsx` — inline highlights and image inserts
 - `app/*/page.tsx` — page layout per section
-
 ## Architecture (simple + maintainable)
 
 The app is a wizard-style set of routes (`/usage`, `/sources`, `/archetype`,
@@ -31,11 +30,11 @@ selected user and a tiny hook API:
 
 - `useSelectedUser()` to set the active user (one change updates all pages).
 - `useSuperData(username, topic)` to read just the section needed for that page.
-
 This keeps the system simple, maintainable, and easy to extend with new users or
 sections.
 
 ## Local development
+
 
 ```bash
 pnpm dev
