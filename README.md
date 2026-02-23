@@ -3,7 +3,7 @@
 A personalized End of Year Wrapped experience for Super, showcasing usage,
 insights, sources, archetypes, and super powers.test test  er macht jetst basfsfsdf
 
-baer 
+aber irgendwas klappt nicht beim
 
 **Live demo:** [https://super-eoy-wrapped.vercel.app/](https://super-eoy-wrapped.vercel.app/)
 
