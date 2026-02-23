@@ -3,7 +3,7 @@
 A personalized End of Year Wrapped experience for Super, showcasing usage,
 insights, sources, archetypes, and super powers.test test  er macht jetst basfsfsdf
 
-aber irgendwas klappt nicht beim speichern 
+aber irgendwas klappt nicht beim Speichern 
 
 warum? 
 
