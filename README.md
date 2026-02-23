@@ -1,7 +1,7 @@
 # Super EOY Wrapped 2026
 
 A personalized End of Year Wrapped experience for Super, showcasing usage,
-insights, sources, archetypes, and super powers.test t
+insights, sources, archetypes, and super powers.test test 
 
 **Live demo:** [https://super-eoy-wrapped.vercel.app/](https://super-eoy-wrapped.vercel.app/)
 
