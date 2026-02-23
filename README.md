@@ -3,7 +3,9 @@
 A personalized End of Year Wrapped experience for Super, showcasing usage,
 insights, sources, archetypes, and super powers.test test  er macht jetst basfsfsdf
 
-aber irgendwas klappt nicht beim
+aber irgendwas klappt nicht beim speichern 
+
+warum? 
 
 **Live demo:** [https://super-eoy-wrapped.vercel.app/](https://super-eoy-wrapped.vercel.app/)
 
